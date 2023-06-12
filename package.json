@@ -1,0 +1,36 @@
+{
+  "name": "migrate-material-btn-to-daisy-ui",
+  "version": "1.0.0",
+  "description": "CLI that migrates @angular/material/button to DaisyUI (tailwind)",
+  "main": "index.js",
+  "bin": {
+    "mmbtt": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallstack/migrate-material-btn-to-daisy-ui.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "button",
+    "tailwindcss",
+    "tailwind",
+    "daisy",
+    "daisyui",
+    "migrate",
+    "migration"
+  ],
+  "author": "smallstack GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallstack/migrate-material-btn-to-daisy-ui/issues"
+  },
+  "homepage": "https://github.com/smallstack/migrate-material-btn-to-daisy-ui#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
