@@ -4,7 +4,7 @@
   "description": "CLI that migrates @angular/material/button to DaisyUI (tailwind)",
   "main": "index.js",
   "bin": {
-    "mmbtt": "./bin/index.js"
+    "mmbtdui": "./bin/index.js"
   },
   "repository": {
     "type": "git",
